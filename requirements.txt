@@ -1,0 +1,13 @@
+gradio==4.25.0
+pymupdf==1.23.22
+joblib
+numpy
+openai==0.28
+langchain
+langchain-community
+tqdm
+pandas
+numpy
+fpdf
+xgboost==2.0.3
+scikit-learn==1.3.2
